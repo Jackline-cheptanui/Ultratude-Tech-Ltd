@@ -7,13 +7,14 @@ li.nav-item a {
   #mzizi-school{
 	margin-left: 18% !important;
 	padding-left: 6px !important;
-	font-size: 2%;
 	position: fixed  !important;
 	justify-content: center !important;
 	top: 2% !important;
 	text-align: center !important;
 
 }
+
+
 #team-mzizi{
 	font-size: 2%;
 }
@@ -135,7 +136,7 @@ li.nav-item a {
  
   .engineer .engineer-text {
 	position: absolute;
-	bottom: 1%;
+	bottom: -1%;
 	background: rgb(0, 0, 0);
 	background: rgba(0, 174, 174, 0.6);
 	color: #f1f1f1;
@@ -163,7 +164,7 @@ li.nav-item a {
  
   .teachers .teachers-text {
 	position: absolute; 
-	bottom:1%; 
+	bottom:-1%; 
 	background: rgb(0, 0, 0); 
 	background: rgba(0, 174, 174, 0.6); 
 	color: #f1f1f1; 
@@ -186,7 +187,7 @@ li.nav-item a {
 
   .employees .employees-text {
 	position: absolute; 
-	bottom:1%;
+	bottom:-1%;
 	background: rgb(0, 0, 0);
 	background: rgba(0, 174, 174, 0.6);
 	color: #f1f1f1;
@@ -397,9 +398,6 @@ footer .app{
 }
 
 @media only screen and (max-width: 842px){
-	/* #mzizi-school{
-		background-color: white;
-	} */
 	.hr-text button{
 		margin-bottom: 1%;
 		padding: 2%;

@@ -224,9 +224,7 @@ footer .app{
 	
 }
 @media only screen and (max-width: 842px){
-	/* #mzizi-erp{
-		background-color: white;
-	} */
+	
 	
 	.hero .landing{
 		width: 100%;
@@ -320,7 +318,7 @@ footer .app{
 	}
 
 	#right{
-		font-size: 10px;
+		font-size: 12px;
 	
 	}	
 }

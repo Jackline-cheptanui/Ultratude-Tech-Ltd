@@ -186,10 +186,6 @@ footer .app{
 }
 
 @media only screen and (max-width: 842px){
-	
-	/* #home-mzizi{
-		background-color: white;
-	} */
 	.hr-image{
 	flex-direction: column ;
 		  margin: 5%;
